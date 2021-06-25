@@ -11,7 +11,7 @@ public class TravisCiCdApplication {
 
 	@GetMapping("/hello")
 	public String welcome(){
-		return "welcome to javatechie";
+		return "welcome samrika in travish world";
 	}
 
 	public static void main(String[] args) {
